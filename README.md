@@ -6,4 +6,4 @@ Evento Rocketseat HTML, CSS e Javascript
 - HTML
 - CSS
 - JavaScript
--Github
+- Github
